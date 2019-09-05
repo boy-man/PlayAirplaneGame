@@ -22,5 +22,4 @@
 - tag v1.0
 
 ### Contact
-- email：chuwuwang@126.com
-- blog：http://blog.csdn.net/u012301841
+- email：1194328454@qq.com
